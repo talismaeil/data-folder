@@ -1,2 +1,2 @@
-# survey
-This is analysis of mental health data
+# data folder
+This is step one of the assignment
